@@ -51,3 +51,5 @@
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=57ajay&show_icons=true&theme=dark)
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=57ajay&theme=dark)
+
+![languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=57ajay&layout=compact&theme=dark)
