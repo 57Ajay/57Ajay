@@ -11,16 +11,18 @@
 ### 🛠️ Programming Languages
 - Python
 - JavaScript
+- Typescript
 - C++
 
 ### 🌐 Full Stack Development
 - **Frontend**: HTML, CSS (including Tailwind CSS), JavaScript (Zod, React.js)
 - **Backend**: Express, Node.js
-- **Frameworks**: Next.js
+- **Frameworks**: Next.js, Vite.js
 
 ### 🗃️ Databases
 - SQL, NOSql
 - MongoDB
+- PostgreSQL
 
 ### 🛡️ Other
 - Git
