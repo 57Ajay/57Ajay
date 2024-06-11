@@ -55,3 +55,5 @@
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=57ajay&theme=dark)
 
 ![languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=57ajay&layout=compact&theme=dark)
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,react,nextjs,mongodb,sqlite,mysql,postgresql,nodejs,express,vite,javascript,typescript&perline=3)](https://skillicons.dev)
