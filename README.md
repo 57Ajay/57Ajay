@@ -56,4 +56,4 @@
 
 ![languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=57ajay&layout=compact&theme=dark)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,react,nextjs,mongodb,sqlite,mysql,postgresql,nodejs,express,vite,javascript,typescript&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,react,nextjs,mongodb,sqlite,mysql,postgresql,nodejs,bash,git,github, express,vite,javascript,typescript&perline=5)](https://skillicons.dev)
