@@ -15,7 +15,7 @@
 - C++
 
 ### 🌐 Full Stack Development
-- **Frontend**: HTML, CSS (including Tailwind CSS), JavaScript (Zod, React.js)
+- **Frontend**: HTML, CSS (including Tailwind CSS), JavaScript (Zod, React.js), Typescript
 - **Backend**: Express, Node.js
 - **Frameworks**: Next.js, Vite.js
 
@@ -23,10 +23,13 @@
 - SQL, NOSql
 - MongoDB
 - PostgreSQL
+- SQLite
 
 ### 🛡️ Other
 - Git
-- Data Structures and Algorithms
+- Bash
+- GitHub
+- Data Structures and Algorithms(C++)
 
 ## 🎓 Education
 
@@ -40,7 +43,7 @@
 - 🐦 [X/Twitter](https://twitter.com/57ajy)
 - 📸 [Instagram](https://www.instagram.com/57aja.y/)
 - 💬 [Threads](https://www.threads.net/@57aja.y)
-- 📧 Email: 57ajay.u@gmail.com
+- 📧 [Email](57ajay.u@gmail.com)
 
 ## 🚀 Fun Facts
 
