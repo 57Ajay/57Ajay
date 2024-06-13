@@ -43,7 +43,7 @@
 - 🐦 [X/Twitter](https://twitter.com/57ajy)
 - 📸 [Instagram](https://www.instagram.com/57aja.y/)
 - 💬 [Threads](https://www.threads.net/@57aja.y)
-- 📧 [Email](57ajay.u@gmail.com)
+- 📧 Email: 57ajay.u@gmail.com
 
 ## 🚀 Fun Facts
 
