@@ -2,7 +2,7 @@
 
 ## 📚 About Me
 
-- 🎓 I'm a 21-year-old Computer Science and Engineering student.
+- 🎓 I'm a  Computer Science and Engineering student.
 - 🌱 Passionate about STEM (Science, Technology, Engineering, Mathematics).
 - 📍 Living in Indore, Madhya Pradesh, India.
 
@@ -13,10 +13,11 @@
 - JavaScript
 - Typescript
 - C++
+- C
 
 ### 🌐 Full Stack Development
 - **Frontend**: HTML, CSS (including Tailwind CSS), JavaScript (Zod, React.js), Typescript
-- **Backend**: Express, Node.js
+- **Backend**: Express, Node.js, Convex
 - **Frameworks**: Next.js, Vite.js
 
 ### 🗃️ Databases
