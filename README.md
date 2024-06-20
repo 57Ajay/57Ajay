@@ -12,11 +12,10 @@
 - Python
 - JavaScript
 - Typescript
-- C++
-- C
+- C/C++
 
 ### 🌐 Full Stack Development
-- **Frontend**: HTML, CSS (including Tailwind CSS), JavaScript (Zod, React.js), Typescript
+- **Frontend**: HTML5, CSS (including TailwindCSS), JavaScript (Zod, React.js), Typescript
 - **Backend**: Express, Node.js, Convex
 - **Frameworks**: Next.js, Vite.js
 
@@ -35,7 +34,7 @@
 ## 🎓 Education
 
 - **Bachelor of Technology (B.Tech) in Computer Science and Engineering**
-  - Oriental University, 2023 - Present
+  - Oriental University (INDORE), 2023 - Present
 
 ## 📱 Connect with Me
 
