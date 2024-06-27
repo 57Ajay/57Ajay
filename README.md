@@ -60,3 +60,5 @@
 ![languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=57ajay&layout=compact&theme=dark)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,react,nextjs,mongodb,sqlite,mysql,postgresql,nodejs,bash,git,github,express,vite,javascript,typescript&perline=5)](https://skillicons.dev)
+
+[![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=57ajay)](https://github.com/57ajay/github-readme-activity-graph)
