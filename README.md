@@ -16,7 +16,7 @@
 
 ### 🌐 Full Stack Development
 - **Frontend**: HTML5, CSS (including TailwindCSS), JavaScript (Zod, React.js), Typescript
-- **Backend**: Express, Node.js, Convex
+- **Backend**: Express, Node.js, Convex, Appwrite
 - **Frameworks**: Next.js, Vite.js
 
 ### 🗃️ Databases
