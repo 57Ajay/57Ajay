@@ -13,6 +13,7 @@
 - JavaScript
 - Typescript
 - C/C++
+- Rust
 
 ### 🌐 Full Stack Development
 - **Frontend**: HTML5, CSS (including TailwindCSS), JavaScript (Zod, React.js), Typescript
