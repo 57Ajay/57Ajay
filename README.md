@@ -60,6 +60,6 @@
 
 ![languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=57ajay&layout=compact&theme=dark)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,python,javascript,typescript,nodejs,react,nextjs,mongodb,sqlite,mysql,postgresql,bash,git,github,express,vite&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,python,javascript,typescript,nodejs,react,nextjs,mongodb,sqlite,postgresql,bash,git,github,express,aws,gcp,cloudflare,docker,kubernetes,nginx,linux,neovim&perline=5)](https://skillicons.dev)
 
 ![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=57ajay)
