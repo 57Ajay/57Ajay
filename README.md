@@ -32,10 +32,7 @@
 - GitHub
 - Data Structures and Algorithms(C++)
 
-## 🎓 Education
 
-- **Bachelor of Technology (B.Tech) in Computer Science and Engineering**
-  - Oriental University (INDORE), 2023 - Present
 
 ## 📱 Connect with Me
 
