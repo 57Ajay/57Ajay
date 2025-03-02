@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/DevOps-informational?style=flat-square&logo=docker&logoColor=white" alt="DevOps Enthusiast Badge"/>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Scalable+Applications;Exploring+Cloud+Frontiers;Solving+Complex+Problems&font=Fira%20Code¢er=true&width=440&height=45&color=00ffff&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Scalable+Applications;Exploring+Cloud+Frontiers;Solving+Complex+Problems&font=Fira%20Code¢er=true&width=440&height=45&color=777777&vCenter=true&size=22" alt="Typing SVG" />
 
 </div>
 
