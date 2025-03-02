@@ -2,7 +2,7 @@
 
 
   <h1>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ajay Upadhyay</h1>
-0
+
   <p>
     <img src="https://img.shields.io/badge/Software_Developer-informational?style=flat-square&logo=code&logoColor=white" alt="Full Stack Developer Badge"/>
     <img src="https://img.shields.io/badge/DevOps-informational?style=flat-square&logo=docker&logoColor=white" alt="DevOps Enthusiast Badge"/>
