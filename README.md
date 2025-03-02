@@ -2,10 +2,10 @@
 
 
   <h1>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ajay Upadhyay</h1>
-
+0
   <p>
-    <img src="https://img.shields.io/badge/Full_Stack_Developer-informational?style=flat-square&logo=code&logoColor=white" alt="Full Stack Developer Badge"/>
-    <img src="https://img.shields.io/badge/DevOps_Enthusiast-informational?style=flat-square&logo=docker&logoColor=white" alt="DevOps Enthusiast Badge"/>
+    <img src="https://img.shields.io/badge/Software_Developer-informational?style=flat-square&logo=code&logoColor=white" alt="Full Stack Developer Badge"/>
+    <img src="https://img.shields.io/badge/DevOps-informational?style=flat-square&logo=docker&logoColor=white" alt="DevOps Enthusiast Badge"/>
   </p>
 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Scalable+Applications;Exploring+Cloud+Frontiers;Solving+Complex+Problems&font=Fira%20Code¢er=true&width=440&height=45&color=00ffff&vCenter=true&size=22" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 <p>
   <img src="https://img.shields.io/badge/B.Tech-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="B.Tech Badge"/>
   <strong>Computer Science and Engineering (CSE)</strong><br/>
-  <img src="https://img.shields.io/badge/Ongoing-lightgrey?style=flat-square" alt="Ongoing Badge"/> (Started 2023) | CGPA: <kbd>8.2/10</kbd>
+  <img src="https://img.shields.io/badge/Ongoing-lightgrey?style=flat-square" alt="Ongoing Badge"/> | CGPA: <kbd>8.2/10</kbd>
 </p>
 
 <br/>
