@@ -47,7 +47,7 @@ I'm a software developer passionate about crafting robust and scalable applicati
 ## GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=57ajay&show_icons=true&theme=tokyonight&hide_border=true" width="380" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=57ajay&show_icons=true&theme=tokyonight&hide_border=true" width="380" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=57ajay&layout=compact&theme=tokyonight&hide_border=true" width="320" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=57ajay&theme=tokyonight&hide_border=true" width="400" />
 </div>
