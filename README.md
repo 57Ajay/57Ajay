@@ -41,7 +41,7 @@ I'm a software developer passionate about crafting robust and scalable applicati
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/upajay/) •
-[Twitter](https://twitter.com/57ajy) • 
+[Twitter](https://twitter.com/57upajay) • 
 [Email](mailto:57ajay.u@gmail.com)
 
 ## GitHub Stats
