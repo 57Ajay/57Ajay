@@ -13,7 +13,7 @@ CGPA: 8.2/10 (Ongoing 3rd year)
 - C
 - Python
 - Go
-- JavaScript
+- Rust
 - TypeScript
 
 ### Software Development
