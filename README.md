@@ -5,7 +5,7 @@ Software Developer specializing in building scalable applications with expertise
 ## Education
 
 **B.Tech in Computer Science and Engineering**  
-CGPA: 8.2/10 (Ongoing 3rd year)
+CGPA: 8/10 (Ongoing final year)
 
 ## Skills
 
@@ -41,7 +41,7 @@ I'm a software developer passionate about crafting robust and scalable applicati
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/upajay/) •
-[Twitter](https://twitter.com/57upajay) • 
+[Twitter](https://twitter.com/_upajay) • 
 [Email](mailto:57ajay.u@gmail.com)
 
 ## GitHub Stats
