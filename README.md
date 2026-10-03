@@ -79,14 +79,16 @@ Contributor to the [OpenTelemetry Collector](https://github.com/open-telemetry/o
 ## Tech stack
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,go,py,ts,pytorch,gcp,kubernetes,docker,terraform,linux,githubactions,prometheus,grafana,git&perline=7&theme=light" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust%2Cgo%2Cpy%2Cts%2Cpytorch%2Cgcp%2Ckubernetes%2Cdocker%2Cterraform%2Clinux%2Cgithubactions%2Cprometheus%2Cgrafana%2Cgit&perline=7&theme=light" />
   <img src="https://skillicons.dev/icons?i=rust,go,py,ts,pytorch,gcp,kubernetes,docker,terraform,linux,githubactions,prometheus,grafana,git&perline=7&theme=dark" alt="Rust, Go, Python, TypeScript, PyTorch, Google Cloud, Kubernetes, Docker, Terraform, Linux, GitHub Actions, Prometheus, Grafana, Git" />
 </picture>
 
-<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI" />
-<img src="https://img.shields.io/badge/LiveKit-1F2328?style=flat-square&logo=livekit&logoColor=white" alt="LiveKit" />
+<p>
+  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+  <img src="https://img.shields.io/badge/LiveKit-1F2328?style=flat-square&logo=livekit&logoColor=white" alt="LiveKit" />
+</p>
 
 ## GitHub stats
 
